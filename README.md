@@ -218,7 +218,7 @@ The Heralds aims to become the go-to agency for brands seeking real digital grow
 
 <a href="#">Facebook</a>
 
-<a href="#">X (Twitter)</a>
+<a href="https://x.com/pkenecrypt">X (Twitter)</a>
 
 </div>
 
