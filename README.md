@@ -1,5 +1,5 @@
 # The-heralds-
-A landing page for the heralds 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
