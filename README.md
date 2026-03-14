@@ -1,6 +1,4 @@
 
-
-
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -229,6 +227,7 @@ The Heralds aims to become the go-to agency for brands seeking real digital grow
 <p>The Heralds</p>
 
 <p>We build brands into powerful digital entities that influence, engage, and drive results.</p>
+<p>© 2026 The Heralds — Social Media Marketing Agency</p>
 
 </footer>
 
