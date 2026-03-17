@@ -18,6 +18,42 @@ flex-wrap:wrap;
 gap:20px;
 justify-content:center;
 }
+</section>
+<section id="about">
+<h2>About The Heralds</h2>
+<p style="text-align:center; max-width:800px; margin:auto;">
+The Heralds is a strategic social media marketing and brand growth agency that helps businesses transform their online presence into powerful digital brands. 
+We focus on building visibility, community engagement, and measurable business growth through strategic digital marketing.
+</p>
+</section>
+<section id="services">
+<h2>Our Services</h2>
+<div class="services">
+<div class="service-card">
+<h3>Social Media Strategy</h3>
+<p>Strategic planning and management of brand social media presence.</p>
+</div>
+<div class="service-card">
+<h3>Content Creation</h3>
+<p>Professional photos, videos, and copywriting for digital growth.</p>
+</div>
+<div class="service-card">
+<h3>Brand Identity</h3>
+<p>Building strong visual branding and brand positioning.</p>
+</div>
+<div class="service-card">
+<h3>Paid Advertising</h3>
+<p>High-converting targeted advertising campaigns.</p>
+</div>
+<div class="service-card">
+<h3>Community Building</h3>
+<p>Developing engaged communities that convert into customers.</p>
+</div>
+<div class="service-card">
+<h3>Analytics & Reporting</h3>
+<p>Tracking performance and optimizing marketing results.</p>
+</div>
+
 
 .package{
 width:280px;
@@ -102,6 +138,21 @@ text-align:center;
 </ul>
 <div class="price">₦499,900</div>
 </div>
+
+</div>
+
+</section>
+<section id="contact">
+
+<h2>Connect With The Heralds</h2>
+
+<div class="social">
+
+<a href="https://instagram.com/heralds_global">Instagram</a>
+
+<a href="#">Facebook</a>
+
+<a href="https://x.com/pkenecrypt">X (twitter)</a>
 
 </div>
 
