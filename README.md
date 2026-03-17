@@ -158,3 +158,10 @@ text-align:center;
 </div>
 
 </section>
+<footer>
+
+ <p className="text-gray-400">
+      © {new Date().getFullYear()} The Heralds. All rights reserved.
+    </p>
+</footer>
+
