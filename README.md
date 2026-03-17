@@ -161,7 +161,7 @@ text-align:center;
 <footer>
 
  <p className="text-gray-400">
-      © {new Date().getFullYear()} The Heralds. All rights reserved.
+      © 2026 The Heralds. All rights reserved.
     </p>
 </footer>
 
