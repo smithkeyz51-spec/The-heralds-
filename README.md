@@ -154,6 +154,7 @@ text-align:center;
 
 <a href="https://x.com/pkenecrypt">X (twitter)</a>
 
+<a href="mailto:edwardwilfred17@gmail.com">Email Us</a>
 </div>
 
 </section>
