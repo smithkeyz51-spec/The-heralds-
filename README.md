@@ -12,12 +12,7 @@
 <a href="#social">Social</a>
 </nav>
 </header>
-.packages{
-display:flex;
-flex-wrap:wrap;
-gap:20px;
-justify-content:center;
-}
+
 </section>
 <section id="about">
 <h2>About The Heralds</h2>
