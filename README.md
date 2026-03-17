@@ -49,16 +49,6 @@ We focus on building visibility, community engagement, and measurable business g
 <p>Tracking performance and optimizing marketing results.</p>
 </div>
 
-.package ul{
-padding-left:20px;
-}
-
-.price{
-margin-top:20px;
-font-size:22px;
-font-weight:bold;
-text-align:center;
-}
 <section id="packages">
 
 <h2>Premium Brand Domination Packages</h2>
