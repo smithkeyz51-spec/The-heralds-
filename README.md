@@ -55,7 +55,7 @@ We focus on building visibility, community engagement, and measurable business g
 
 <div class="packages">
 
-<div class="package sniper">
+<div class="package card">
 <h3>SNIPER</h3>
 <p>Precision. Speed. Results.</p>
 <ul>
