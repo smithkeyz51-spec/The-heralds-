@@ -49,33 +49,6 @@ We focus on building visibility, community engagement, and measurable business g
 <p>Tracking performance and optimizing marketing results.</p>
 </div>
 
-
-.package{
-width:280px;
-padding:25px;
-border-radius:12px;
-color:white;
-}
-
-.sniper{
-background:#111;
-}
-
-.eagle{
-background:linear-gradient(135deg,#caa64b,#8a6d2f);
-color:black;
-}
-
-.monalisa{
-background:#f1e5c9;
-color:black;
-}
-
-.package h3{
-text-align:center;
-margin-bottom:10px;
-}
-
 .package ul{
 padding-left:20px;
 }
